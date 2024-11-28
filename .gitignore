@@ -1,3 +1,2 @@
-# Локальные настройки IDE
-.vscode/
+# IDE specific files
 .idea/
