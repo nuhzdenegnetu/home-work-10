@@ -191,7 +191,7 @@ html {
 
 .video__item {
     animation-name: video;
-    width: 1110px;
+    width: 100%;
     height: 600px;
     margin: 0 auto;
 }
@@ -221,12 +221,7 @@ html {
     .work__description {
         width: 335px;
     }
-
-    .video__item {
-        width: 335px;
-    }
 }
-
 @media (min-width: 768px) {
     .about__description {
         width: 540px;
@@ -234,21 +229,5 @@ html {
 
     .work__description {
         width: 540px;
-    }
-
-    .video__item {
-        width: 728px;
-    }
-}
-
-@media (min-width: 1024px) {
-    .video__item {
-        width: 984px;
-    }
-}
-
-@media (min-width: 1280px) {
-    .video__item {
-        width: 1110px;
     }
 }
