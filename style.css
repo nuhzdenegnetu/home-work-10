@@ -84,7 +84,7 @@ html {
     display: flex;
     flex-direction: column;
     align-items: self-start;
-    max-width: var(--container-secondary);
+    /*max-width: var(--container-secondary);*/
 }
 
 .content__title {
